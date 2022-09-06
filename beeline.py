@@ -24,6 +24,7 @@ class tarifi1(Beeline):
             self.zvon += 30
             self.mb += 100
             self.cmc += 70
+            print("успешно оплачен")
         elif x == 3:
             self.zvon += 50
             self.mb += 500
