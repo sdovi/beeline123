@@ -64,5 +64,5 @@ while True:
     elif x == 4:
         break
     else:
-        print("выберайте между 1-4")
+        print("выберайте между 1-4.")
 
